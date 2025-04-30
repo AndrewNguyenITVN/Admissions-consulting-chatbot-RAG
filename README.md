@@ -65,7 +65,7 @@ The chatbot is designed to help students and parents quickly access information 
 - OpenAI API (Embeddings + GPT-4o-mini)
 - FAISS Vector Database
 - LangChain
-- Facebook Messenger Webhooks
+- Facebook Messenger Webhooks(Facebook Developer)
 
 ---
 
