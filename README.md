@@ -1,12 +1,12 @@
-# 🎯 Admission Consulting Chatbot using Retrieval-Augmented Generation (RAG)
+# Admission Consulting Chatbot using Retrieval-Augmented Generation (RAG)
 
-### 📍 Course: Foundational Thesis – College of Information and Communication Technology  
-### 👨‍🏫 Supervisor: Dr. Pham The Phi  
-### 🏫 Can Tho University  
+###  Course: Foundational Thesis – College of Information and Communication Technology  
+###  Supervisor: Dr. Pham The Phi  
+###  Can Tho University  
 
 ---
 
-## 👨‍💻 Author
+##  Author
 - **Name**: Nguyen Minh Nhut  
 - **Student ID**: B2205896  
 - **Class**: K48 – Information Technology  
@@ -14,7 +14,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on building an **Admission Consulting Chatbot** integrated into **Facebook Messenger**, using the **Retrieval-Augmented Generation (RAG)** approach.  
 The system retrieves information from official admission documents and generates accurate and natural responses through the GPT-4o-mini model.
 
@@ -22,9 +22,9 @@ The chatbot is designed to help students and parents quickly access information 
 
 ---
 
-## 🔧 System Implementation
+##  System Implementation
 
-### ⚙️ Environment Setup
+###  Environment Setup
 - **Backend**: Node.js, Express.js
 - **AI Models**:
   - Text Embedding Model: `text-embedding-3-small` (via OpenAI API)
@@ -33,7 +33,7 @@ The chatbot is designed to help students and parents quickly access information 
 - **Hosting**: Render Cloud Server
 - **Messenger Integration**: Webhooks, Facebook Developer API
 
-### 🛠 Deployment Process
+###  Deployment Process
 1. **Data Collection**:
    - Gather official documents: admission regulations, admission schemes, score lists.
 
@@ -51,7 +51,7 @@ The chatbot is designed to help students and parents quickly access information 
    - GPT-4o-mini generates the final natural-language response.
    - Response is sent back to the user via Messenger.
 
-## 📈 Results
+##  Results
 - Integrated successfully into Facebook Messenger.
 - Achieved **Precision: 0.8921**, **Recall: 0.9363**, **F1-score: 0.9130** according to **BERTScore** evaluation.
 - Demonstrated high accuracy and real-time response.
@@ -59,7 +59,7 @@ The chatbot is designed to help students and parents quickly access information 
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 - Node.js
 - Express.js
 - OpenAI API (Embeddings + GPT-4o-mini)
@@ -69,7 +69,7 @@ The chatbot is designed to help students and parents quickly access information 
 
 ---
 
-## 📌 Notes
+##  Notes
 - This project is academic work completed for the Foundational Thesis.
 - Future improvements include:
   - Expanding chatbot capabilities for multiple schools.
