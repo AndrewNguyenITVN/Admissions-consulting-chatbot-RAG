@@ -13,6 +13,11 @@
 - **Institution**: College of Information and Communication Technology, Can Tho University  
 
 ---
+## Demo
+
+[Watch Demo on YouTube](https://youtu.be/T2Wx3g6KCb4)
+
+---
 
 ##  Project Overview
 This project focuses on building an **Admission Consulting Chatbot** integrated into **Facebook Messenger**, using the **Retrieval-Augmented Generation (RAG)** approach.  
